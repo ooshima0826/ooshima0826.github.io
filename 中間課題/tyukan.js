@@ -1,6 +1,11 @@
 let answer = document.querySelector('#answer');
 let outputHtml = '<ul>';
 
+window.onload=function () {
+    outputTweets= (tweets);
+    };
+
+
 //Allボックス
 function boxAll() {
     outputHtml=`<div>`
