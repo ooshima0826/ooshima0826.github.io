@@ -1,5 +1,5 @@
 setTimeout(function(){
-    window.location.href = 'http://localhost:63342/ooshima0826.github.io/2%E5%B9%B4%E5%89%8D%E6%9C%9F/youtube.layout/2023.html?_ijt=1n1k4r5c2fa07f95ac6a5pd116&_ij_reload=RELOAD_ON_SAVE';
+    window.location.href = 'http://localhost:63342/ooshima0826.github.io/2年前期/youtube.layout/2023.html';
 }, 7.8*1000);
 
 const container  = document.querySelector(".container-m")
